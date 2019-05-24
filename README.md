@@ -25,3 +25,6 @@ Links to job fairs and job posting boards
 
 [European Job Market for Environmental and Resource Economists](https://www.linkedin.com/company/european-association-of-environmental-and-resource-economists/)
 
+### Blogs
+[Academic job market advice for economics, political science, public policy, and other professional schools](https://chrisblattman.com/job-market/)
+
