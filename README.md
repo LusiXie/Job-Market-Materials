@@ -1,5 +1,5 @@
 # Job-Market-Materials
-A collection of materials for job market candidates
+A collection of materials for job market candidates in economics
 
 # Useful Links
 
