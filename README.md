@@ -3,9 +3,9 @@ A collection of materials for job market candidates
 
 # Useful Links
 
-Links to job fairs and job posting boards
+Links to job fairs, job posting boards and blogs
 
-### Economics (general)
+### Economics
 
 [ASSA Annual Meeting, San Diego, 2020](https://www.aeaweb.org/conference/)
 
