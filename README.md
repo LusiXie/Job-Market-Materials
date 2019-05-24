@@ -19,9 +19,9 @@ Links to job fairs, job posting boards and blogs
 
 [European Association of Agricultural Economists](http://www.eaae.org/JobBoard.aspx)
 
-[Canadian Agricultural Economics Society](https://caes-scae.ca/view-openings/)
+[Canadian Agricultural Economics Society Job Openings](https://caes-scae.ca/view-openings/)
 
-[Association of Environmental and Resource Economists](https://www.aere.org/post-jobs-fellowships)
+[Association of Environmental and Resource Economists Jobs and Fellowships](https://www.aere.org/post-jobs-fellowships)
 
 [European Job Market for Environmental and Resource Economists](https://www.linkedin.com/company/european-association-of-environmental-and-resource-economists/)
 
