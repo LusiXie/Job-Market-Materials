@@ -13,15 +13,15 @@ Links to job fairs, job posting boards and blogs
 
 [Econ Job Market](https://econjobmarket.org/positions)
 
-### Agricultural & Resource Economics
+### Agricultural & Resource Economics Job Boards
 
-[Agricultural & Applied Economics Job Board](https://aaea.execinc.com/edibo/JobBoard)
+[Agricultural & Applied Economics](https://aaea.execinc.com/edibo/JobBoard)
 
 [European Association of Agricultural Economists](http://www.eaae.org/JobBoard.aspx)
 
-[Canadian Agricultural Economics Society Job Openings](https://caes-scae.ca/view-openings/)
+[Canadian Agricultural Economics Society](https://caes-scae.ca/view-openings/)
 
-[Association of Environmental and Resource Economists Jobs and Fellowships](https://www.aere.org/post-jobs-fellowships)
+[Association of Environmental and Resource Economists](https://www.aere.org/post-jobs-fellowships)
 
 [European Job Market for Environmental and Resource Economists](https://www.linkedin.com/company/european-association-of-environmental-and-resource-economists/)
 
