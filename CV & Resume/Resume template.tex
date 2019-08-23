@@ -1,0 +1,169 @@
+% LaTeX Curriculum Vitae Template
+%
+% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template/
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely. No attribution is
+% required in any resulting documents. I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass[letterpaper]{article}
+
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{fontawesome}
+% Comment the following lines to use the default Computer Modern font
+% instead of the Palatino font provided by the mathpazo package.
+% Remove the 'osf' bit if you don't like the old style figures.
+\usepackage[T1]{fontenc}
+\usepackage[sc,osf]{mathpazo}
+
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
+
+%\hyphenchar\font=-1
+%\sloppy
+
+% Set your name here
+\def\name{Lusi Xie} 
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+\def\footerlink{}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = black,
+  pdfauthor = {\name},
+  pdfkeywords = {economics},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+
+
+\begin{document}
+
+% Place name at left
+%{\huge \name}
+
+% Alternatively, print name centered and bold:
+\centerline{\huge \bf \name}
+
+\vspace{0.25in}
+
+\begin{minipage}{0.65\linewidth}
+   \\ %university
+   \\ %department
+   \\ %address
+\end{minipage}
+\begin{minipage}{0.25\linewidth}
+  \begin{tabular}{ll}
+    Email: &  \href{mailto:}{\tt } \\
+    Phone: &  \\
+    Homepage: & \href{}{\tt } \\ 
+    Other: & \href}{\faGithub}  \href{}{\faLinkedin}
+    \href{}{\faTwitter}\\
+%    Skype: &  lusi.xie@outlook.com \\
+
+  \end{tabular}
+\end{minipage}
+
+\vspace{-0.1in}
+
+\section*{Summary}
+\begin{itemize}
+	\setlength{\itemindent}{-.12in}
+	\item $\bullet$  \\[-0.25in]
+	\item $\bullet$  \\[-0.25in]
+	\item $\bullet$  \\[-0.25in]
+
+\end{itemize}
+
+\vspace{-0.15in}
+
+\section*{Education}
+\begin{itemize}
+  \item \textbf{} \hfill{} \\[-0.25in] %degree, year
+  \item \textit{}\\[-0.25in] %school
+	\begin{itemize}
+  		\setlength{\itemindent}{-.16in}
+  		\item $\bullet$  \\[-0.2in]
+  	\end{itemize}
+\end{itemize}
+
+\vspace{-0.15in}
+
+\section*{Experience}
+\begin{itemize}
+	\item \textbf{} \hfill {2017-present} \\[-0.25in] %position, year
+	\item \textit{} \\[-0.25in]  %company
+	 \begin{itemize}
+ 		\setlength{\itemindent}{-.12in}
+		\item $\bullet$  \\[-0.2in] 		
+		\item $\bullet$  \\[-0.2in]
+		\item $\bullet$  \\[-0.2in]
+	\end{itemize}
+\end{itemize}
+%\bigskip 
+
+\hyphenchar\font=-1
+\sloppy
+
+\section*{Skills}
+\begin{itemize}
+	\item \textbf {Software:} \\[-0.25in]
+	\item \textbf {Languages:} 
+\end{itemize}
+
+
+% Footer
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today \\
+    \href{\footerlink}{\texttt{\footerlink}}
+  \end{footnotesize}
+\end{center}
+
+\end{document}
