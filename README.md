@@ -17,7 +17,7 @@ Links to job fairs, job posting boards and blogs
 
 [Agricultural & Applied Economics](https://aaea.execinc.com/edibo/JobBoard)
 
-[European Association of Agricultural Economists](http://www.eaae.org/JobBoard.aspx)
+[European Association of Agricultural Economists](https://eaae.org/JobBoard.aspx)
 
 [Canadian Agricultural Economics Society](https://caes-scae.ca/view-openings/)
 
