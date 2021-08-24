@@ -27,4 +27,5 @@ Links to job fairs, job posting boards and blogs
 
 ### Blogs
 [Academic job market advice for economics, political science, public policy, and other professional schools](https://chrisblattman.com/job-market/)
+
 [How to Mentally Prepare for the Job Market](https://sites.google.com/view/ejm-mentalhealth/home)
