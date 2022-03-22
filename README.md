@@ -7,7 +7,7 @@ Links to job fairs, job posting boards and blogs
 
 ### Economics
 
-[ASSA Annual Meeting, San Diego, 2020](https://www.aeaweb.org/conference/)
+[ASSA Annual Meeting](https://www.aeaweb.org/conference/)
 
 [Job Openings for Economists](https://www.aeaweb.org/joe/listings)
 
