@@ -30,4 +30,6 @@ Links to job fairs, job posting boards and blogs
 
 [How to Mentally Prepare for the Job Market](https://sites.google.com/view/ejm-mentalhealth/home)
 
-[So you want to go on the job market] (https://thelittledataset.com/2022/03/21/job-mkt/)
+[So you want to go on the job market](https://thelittledataset.com/2022/03/21/job-mkt/)
+
+[Managing the academic job market](https://chrisblattman.com/blog/2022/04/16/managing-the-academic-job-market/)
